@@ -14,7 +14,5 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React,
 - Fun fact: Love to play video games 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatulAlam)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub metrics](https://metrics.lecoq.io/SifatulAlam)  
 
