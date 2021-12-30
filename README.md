@@ -18,8 +18,6 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React,
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SifatulAlam)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatulAlam)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SifatulAlam)  
 
 ![GitHub metrics](https://metrics.lecoq.io/SifatulAlam)  
