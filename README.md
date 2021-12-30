@@ -1,8 +1,6 @@
-![Student](https://adigitalguru.com/wp-content/uploads/2019/11/banner-web-development.png)
 ### Hi there 👋, my name is Sifatul Alam
 #### Student
-
-![Profile views](https://gpvc.arturio.dev/SifatulAlam)  
+![Student](https://adigitalguru.com/wp-content/uploads/2019/11/banner-web-development.png)
 
 I'm a high school student. 
 
@@ -15,13 +13,10 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React,
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SifatulAlam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SifatMashfi21)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SifatulAlam)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatulAlam&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatulAlam)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SifatulAlam)  
 
 ![GitHub metrics](https://metrics.lecoq.io/SifatulAlam)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SifatulAlam)  
-
+![Profile views](https://gpvc.arturio.dev/SifatulAlam)  
