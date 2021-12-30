@@ -12,12 +12,14 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React,
 - ⚡ Fun fact: Love to play video games 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SifatulAlam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SifatMashfi21)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SifatulAlam)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatulAlam)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatulAlam&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SifatulAlam)  
 
 ![GitHub metrics](https://metrics.lecoq.io/SifatulAlam)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SifatulAlam)  
 
 ![Profile views](https://gpvc.arturio.dev/SifatulAlam)  
