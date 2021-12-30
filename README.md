@@ -1,6 +1,7 @@
+![Student](https://adigitalguru.com/wp-content/uploads/2019/11/banner-web-development.png)
+
 ### Hi there 👋, my name is Sifatul Alam
 #### Student
-![Student](https://adigitalguru.com/wp-content/uploads/2019/11/banner-web-development.png)
 
 I'm a high school student. 
 
