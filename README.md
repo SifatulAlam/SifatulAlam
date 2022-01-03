@@ -14,7 +14,7 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React
 - 📫 How to reach me: Via Twitter 
 - 😄 Pronouns: Mashfi 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s&show_icons=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SifatulAlam)  
 
 ![GitHub metrics](https://metrics.lecoq.io/s)  
 
