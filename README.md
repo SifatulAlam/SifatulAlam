@@ -1,6 +1,6 @@
 ![Student, Web Developer](https://jayblues.com/images/slider5.jpg)
 
-#### Hi there 👋, my name is Sifatul Alam
+### Hello there, I', Sifatul Alam
 #### Student, Web Developer
 
 ![Profile views](https://gpvc.arturio.dev/s)  
@@ -14,8 +14,4 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React
 - 📫 How to reach me: Via Twitter 
 - 😄 Pronouns: Mashfi 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SifatulAlam)  
-
 ![GitHub metrics](https://metrics.lecoq.io/SifatulAlam)  
-
-
