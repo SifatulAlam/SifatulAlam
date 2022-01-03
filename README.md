@@ -16,6 +16,6 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SifatulAlam)  
 
-![GitHub metrics](https://metrics.lecoq.io/s)  
+![GitHub metrics](https://metrics.lecoq.io/SifatulAlam)  
 
 
