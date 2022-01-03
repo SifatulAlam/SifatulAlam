@@ -1,18 +1,26 @@
-![Student](https://adigitalguru.com/wp-content/uploads/2019/11/banner-web-development.png)
+![Student, Web Developer](https://jayblues.com/images/slider5.jpg)
 
-### Hello there, my name is Sifatul Alam
-#### Student
+#### Hi there 👋, my name is Sifatul Alam
+#### Student, Web Developer
 
-![Profile views](https://gpvc.arturio.dev/SifatulAlam)  
+![Profile views](https://gpvc.arturio.dev/s)  
 
-I'm a high school student. 
+I'm Sifat Mashfi. I'm a student. I'm learning Web Development. I'm now studying in at high-school. I want to become a Web Developer. Personally, I prefer a response within 2 hour, no more than 10 hours maximum. If I don't, knock me in Twitter.
 
-Skills: HTML, CSS, Bootstrap, JavaScript, React,
+Skills: HTML, CSS, Bootstrap, JavaScript, React
 
-- I’m currently learning Web Development 
-- Pronouns: Mashfi 
-- Fun fact: Love to play video games 
+- 🔭 I’m currently working on PEC 
+- 🌱 I’m currently learning Web Development 
+- 📫 How to reach me: Via Twitter 
+- 😄 Pronouns: Mashfi 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/SifatulAlam)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=s&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s)  
+
+![GitHub metrics](https://metrics.lecoq.io/s)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=s)  
 
