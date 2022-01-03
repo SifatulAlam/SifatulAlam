@@ -14,6 +14,9 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React
 - 📫 How to reach me: Via Twitter 
 - 😄 Pronouns: Mashfi 
 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=s)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s&show_icons=true)  
@@ -22,5 +25,4 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React
 
 ![GitHub metrics](https://metrics.lecoq.io/s)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=s)  
 
