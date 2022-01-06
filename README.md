@@ -3,8 +3,6 @@
 ### Hello there, I'm, Sifatul Alam
 #### Student, Web Developer
 
-![Profile views](https://gpvc.arturio.dev/s)  
-
 I'm Sifat Mashfi. I'm a student. I'm learning Web Development. I'm now studying in at high-school. I want to become a Web Developer. Personally, I prefer a response within 2 hour, no more than 10 hours maximum. If I don't, knock me in Twitter.
 
 Skills: HTML, CSS, Bootstrap, JavaScript, React
