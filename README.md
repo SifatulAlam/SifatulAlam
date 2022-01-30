@@ -11,5 +11,3 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React
 - 🌱 I’m currently learning Web Development 
 - 📫 How to reach me: Via Twitter 
 - 😄 Pronouns: Mashfi 
-
-![GitHub metrics](https://metrics.lecoq.io/SifatulAlam)  
